@@ -78,3 +78,50 @@
  .jumbotron h3 {
  font-size: 30px;
  }
+ 
+ .section-1 {
+ 
+ background-color: white; 
+ height: auto;
+ color: black;
+ padding-bottom: 20px;
+ padding-top: 10px;
+ }
+ 
+  .section-2 {
+ 
+ background-color: #4169E1; 
+ height: auto;
+ color: black;
+ padding-bottom: 20px;
+ padding-top: 10px;
+ margin-bottom: 0px;
+ }
+ 
+ .section-3 {
+ 
+ background-color: orange; 
+ height: auto;
+ color: black;
+ padding-bottom: 10px;
+ padding-top: 20px;
+ }
+ 
+  .section-4 {
+ 
+ background-color: #c71c2c; 
+ height: auto;
+ color: black;
+ padding-bottom: 20px;
+ padding-top: 20px;
+ }
+ 
+   .section-5 {
+ 
+ background-color: white; 
+ height: auto;
+ color: black;
+ padding-bottom: 20px;
+ padding-top: 20px;
+ }
+ 
